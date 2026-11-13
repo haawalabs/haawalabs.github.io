@@ -39,7 +39,8 @@ Yes: the "Compress Files" action takes files and returns the archive chunks. Sir
 "Compress with Zip & Split", "Zip with Zip & Split", "Split for email with Zip & Split".
 
 **Do you see my files?**
-No. Zip & Split never connects to the internet; see the [privacy policy](/zipsplit/privacy/).
+No. Zip & Split doesn't send your files or data anywhere. Its only network use is Apple's StoreKit,
+for purchases and restores. See the [privacy policy](/zipsplit/privacy/).
 
 **The 7Z password is lost.**
 It isn't stored anywhere, so we can't recover it.
@@ -77,7 +78,8 @@ ZIP відкривається всюди. TAR.GZ і TAR.XZ поширені в 
 Zip & Split», «Zip with Zip & Split», «Split for email with Zip & Split».
 
 **Ви бачите мої файли?**
-Ні. Zip & Split ніколи не підключається до інтернету; див. [політику конфіденційності](/zipsplit/privacy/).
+Ні. Zip & Split нікуди не надсилає ваші файли чи дані. Мережу він використовує лише для Apple
+StoreKit: для покупок і їх відновлення. Див. [політику конфіденційності](/zipsplit/privacy/).
 
 **Я забув пароль до 7Z.**
 Його ніде не збережено, тож відновити ми не можемо.
