@@ -7,8 +7,8 @@ permalink: /zipsplit/support/
 
 Split big files into standard archives that open anywhere, right from Shortcuts.
 
-Contact: &lt;support email&gt;. Please say your iPhone or iPad model, iOS version and the Zip & Split
-version (from the App Store or TestFlight page).
+Contact: [support@haawalabs.org](mailto:support@haawalabs.org). Please say your iPhone or iPad
+model, iOS version and the Zip & Split version (from the App Store or TestFlight page).
 
 ## English
 
