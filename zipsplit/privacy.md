@@ -31,7 +31,7 @@ Zip & Split doesn't collect, store on a server, share or sell any personal data.
 - **Changes.** If this ever changes, we will update this page and the app's App Privacy details
   before the change ships.
 
-Contact: &lt;support email&gt;
+Contact: [support@haawalabs.org](mailto:support@haawalabs.org)
 
 ## Українською
 
@@ -56,4 +56,4 @@ Zip & Split не збирає, не зберігає на сервері, не �
 - **Зміни.** Якщо це зміниться, ми оновимо цю сторінку й відомості App Privacy в застосунку до
   випуску змін.
 
-Контакт: &lt;support email&gt;
+Контакт: [support@haawalabs.org](mailto:support@haawalabs.org)
